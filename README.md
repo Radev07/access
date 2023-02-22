@@ -1,24 +1,53 @@
-# login
+# Login 
+Sistema de autenticação básico, baseado em *vuejs* e *tailwild css*.
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Objetivos
 
-### Lints and fixes files
-```
-npm run lint
-```
+- Constrúir portifólio.
+- Desenvolver habilidades nestas tecnologias.
+- Disponibilizar mecanimo de acesso.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## Projeto
+
+- Pag. entrar
+- Pag. Cadastrar
+- Pag. recuperar senha
+- Pag. alterar senha
+- Pag. desbloquear tela
+
+
+
+## Tecnológias
+- HTML
+- CSS
+- Javascript
+- Tailwild CSS
+- JSON Server
+- Vue
+  - Vuex
+  - Router
+
+## Perspectivas
+Constrúir componentes vue utilizando taiwild css para estilizar.  
+Constrúir validações na UI.  
+Gerar mensagens informativas ao usuário.  
+**Simular:**
+  - Acesso (login)
+  - Saida (logout)
+  - Painel de controle (simplificado)
+  - Cadastro
+  - Confirmação de cadastro
+  - Recuperação de senha
+  - Recuperação de senha - enviada com sucesso
+  - Recuperação de senha - ops... não foi possível conclúir esta operação
+  - Alteração de senha
+  - Bloqueio de tela (lookscreen)  
+  - **Mensagens:**
+    - success  
+    - error
+    - warning
+    - info  
