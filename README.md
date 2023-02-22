@@ -1,4 +1,4 @@
-# Login 
+# Acesso 
 Sistema de autenticação básico, baseado em *vuejs* e *tailwild css*.
 
 
@@ -51,3 +51,16 @@ Gerar mensagens informativas ao usuário.
     - error
     - warning
     - info  
+  
+
+## Desenvolvimento 
+[&check;] Read-me  
+[ &nbsp; ] Entrar  
+[ &nbsp; ] Cadastrar  
+[ &nbsp; ] Confirmar Cadastro  
+[ &nbsp; ] Recuperar Senha  
+[ &nbsp; ] Alterar Senha  
+[ &nbsp; ] Bloqueio de tela  
+[ &nbsp; ] Painel de controle  
+[ &nbsp; ] Mensagens  
+[ &nbsp; ] Validações  
