@@ -1,4 +1,5 @@
 # Acesso 
+
 Sistema de autenticação básico, baseado em *vuejs* e *tailwild css*.
 
 
@@ -13,6 +14,7 @@ Sistema de autenticação básico, baseado em *vuejs* e *tailwild css*.
 
 ## Projeto
 
+- Pag. ínicio
 - Pag. entrar
 - Pag. Cadastrar
 - Pag. recuperar senha
@@ -22,6 +24,7 @@ Sistema de autenticação básico, baseado em *vuejs* e *tailwild css*.
 
 
 ## Tecnológias
+
 - HTML
 - CSS
 - Javascript
@@ -31,7 +34,10 @@ Sistema de autenticação básico, baseado em *vuejs* e *tailwild css*.
   - Vuex
   - Router
 
+
+
 ## Perspectivas
+
 Constrúir componentes vue utilizando taiwild css para estilizar.  
 Constrúir validações na UI.  
 Gerar mensagens informativas ao usuário.  
@@ -53,8 +59,10 @@ Gerar mensagens informativas ao usuário.
     - info  
   
 
+
 ## Desenvolvimento 
 [&check;] Read-me  
+[&check;] Ínicio  
 [ &nbsp; ] Entrar  
 [ &nbsp; ] Cadastrar  
 [ &nbsp; ] Confirmar Cadastro  
